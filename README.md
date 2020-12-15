@@ -1,7 +1,7 @@
 ![screenshot](https://raw.githubusercontent.com/Wreckstation/RetroNights/main/cataclysm-tiles_fouPq5xHkQ.png)
 ![screenshot](https://raw.githubusercontent.com/Wreckstation/RetroNights/main/cataclysm-tiles_XyAo28X4ga.png)
 # Brighter RetroNights
-My own version of ivy's [Darker RetroDays Sidewalk edition] (https://discourse.cataclysmdda.org/t/alternative-retrodayss/21555), that recolors the rest of the tiles to match the dark viridian, and made a matching base_colors to match. Some tiles from Retrodays+ were also used. I only tested it in Bright Nights, but it should be fine in other forks.
+My own version of ivy's [Darker RetroDays Sidewalk edition](https://discourse.cataclysmdda.org/t/alternative-retrodayss/21555), that recolors the rest of the tiles to match the dark viridian, and made a matching base_colors to match. Some tiles from Retrodays+ were also used. I only tested it in Bright Nights, but it should be fine in other forks.
 
 ![screenshot](https://raw.githubusercontent.com/Wreckstation/RetroNights/main/status.png)
 ## Usage
