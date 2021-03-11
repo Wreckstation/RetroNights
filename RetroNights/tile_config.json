@@ -7968,7 +7968,8 @@
         { "id": "mon_zombie_gasbag_crawler", "fg": 3090, "rotates": false },
         { "id": "mon_zombie_gasbag_immobile", "fg": 3091, "rotates": false },
         { "id": "mon_zombie_gasbag_impaler", "fg": 3092, "rotates": false },
-        { "id": "mon_zombie_living_wall", "fg": 3093, "rotates": false }
+        { "id": "mon_zombie_living_wall", "fg": 3093, "rotates": false },
+		{ "id": "fiddlehead_raw", "fg": 3094, "rotates": false }
       ]
     },
     {
